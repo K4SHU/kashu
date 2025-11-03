@@ -396,7 +396,7 @@ logo = ("""\033[1;34m
 ██╔═██╗░██╔══██║░╚═══██╗██╔══██║██║░░░██║
 ██║░╚██╗██║░░██║██████╔╝██║░░██║╚██████╔╝
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝░╚═════╝░
-__________________Kashu Tricker______________________
+__________________KashuTricker______________________
   
   Bestu  :  Steviic x Ahsan x Asad
  
@@ -422,11 +422,11 @@ class Main:
 		print(" [5] 2011-14 Cloning")
 		print(" [E] Exit Programming\n")
 		VEERO =input(" Choose : ")
-		if KASHU in ["1", "01"]:
+		if Kashu in ["1", "01"]:
 			File()
-		if KASHU in ["2", "02"]:
+		if kashu in ["2", "02"]:
 			Public()
-		if KASHUin ["3", "03"]:
+		if KASHU in ["3", "03"]:
 			os.system("python Dump.py")
 		if KASHU in ["4", "04"]:
 			self.old()
